@@ -1,0 +1,8 @@
+.PlantListPage-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+    grid-gap: 20px;
+    padding: 5vmin 5vmin 5vmin 5vmin;
+    margin: 5vmin;
+    justify-content: center;
+  }
